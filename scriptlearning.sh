@@ -22,3 +22,4 @@ echo "$@"
 echo "$!"
 echo "$$"
 echo "end of script"
+touch commandlines.sh
