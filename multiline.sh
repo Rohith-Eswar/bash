@@ -1,6 +1,7 @@
 #!/bin/bash
 # -n command gives adding of all lines into single line
 echo -n "line1"
+
 echo -n "line2"
 echo "line3"
 # -e=escape
