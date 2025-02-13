@@ -13,3 +13,20 @@ echo $a and $name
 echo $a
 echo "$a"
 echo '$a'
+# read and echo commands practice
+echo "welcome srikanth"
+echo "welcome \"srikanthi"\"
+echo "${name^^}"
+echo -e "line1\n line2\n line3"
+echo -e "line1\n \t \t \t  line2"
+echo -e "${name^^}"
+<<< sri
+echo -n"line1"
+echo -n "line2"
+echo -n "line3"
+sri
+echo -n "enter any number:"
+read a
+echo $a
+echo "you entered value is: $a"
+
